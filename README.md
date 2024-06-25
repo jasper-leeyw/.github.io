@@ -5,7 +5,8 @@ Hi there, I am Jasper Lee from Malaysia, AKA Yao Wei. Currently, I am based in t
 
 I enjoy learning languages and I recently discovered my interest in Data Science and Data Analytics. Join me as I delve deeper into the field of Data Science and discover the wonders of Big Data. 
 
-Skills: Python | SQL
+### Skills
+Python|SQL
 
 ### Education
 Electrical Engineering, Bachelor's
